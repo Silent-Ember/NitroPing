@@ -1,4 +1,4 @@
-```markdown
+
 # NitroPing
 
 ![NitroPing Banner](https://i.ibb.co/6QfPTnh/1credits.png)
