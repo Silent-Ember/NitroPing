@@ -1,6 +1,6 @@
 # NitroPing
 
-![NitroPing Banner](https://i.ibb.co/jkCBJ2RK/71505-booster-gem-24months.png)
+![NitroPing Banner](https://i.ibb.co/JjGWzycT/Nitro-Ping-Banner-3.png)
 
 **NitroPing** is a Discord bot designed to manage and celebrate server boosts. It provides automated notifications for boost events, role management for boosters, and a suite of administrative commands to customize the experience. Built with `discord.py`, NitroPing is lightweight, easy to set up, and perfect for enhancing your server's boost engagement.
 
@@ -133,6 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *Powered by Silent Ember Hosting*
 ```
+https://silent-ember.com
 ```
 
 # ⭐️ Star History
@@ -140,6 +141,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 > This will help us grow and reach even more people!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
-
-https://silent-ember.com
-```
