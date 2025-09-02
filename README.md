@@ -133,6 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *Powered by Silent Ember Hosting*
 ```
+```
 
 # ⭐️ Star History
 > Please give this repository a star if you like it.
