@@ -1,9 +1,3 @@
-⭐️ Star History
- Please give this repository a star if you like it. This will help us grow and reach even more people!
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
-
 # NitroPing
 
 ![NitroPing Banner](https://i.ibb.co/jkCBJ2RK/71505-booster-gem-24months.png)
