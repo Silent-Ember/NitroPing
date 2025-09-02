@@ -27,7 +27,7 @@
 ### Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/nitroping.git
+   git clone https://github.com/Silent-Ember/NitroPing.git
    cd nitroping
    ```
 
