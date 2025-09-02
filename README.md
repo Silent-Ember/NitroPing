@@ -115,11 +115,6 @@ nitroping/
 
 ```
 
-# ⭐️ Star History
-> Please give this repository a star if you like it. This will help us grow and reach even more people!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
-
 ## Support
 
 Join our [Support Server](https://discord.gg/Y64smue5uZ) for help, feature requests, or bug reports.
@@ -138,5 +133,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *Powered by Silent Ember Hosting*
 ```
+
+# ⭐️ Star History
+> Please give this repository a star if you like it.
+> This will help us grow and reach even more people!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
+
 https://silent-ember.com
 ```
