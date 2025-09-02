@@ -1,7 +1,8 @@
 ⭐️ Star History
  Please give this repository a star if you like it. This will help us grow and reach even more people!
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFSR1RFRFEwVVlPeExlRmh0SHVwX2JUTVI1MjVhNXY5SHVQekx1OWxkSkl4WFdFRk9OVVhteXFEZ2F6RGpuU3BIU0JaU0c1TFdLNzJ3MVRL#Silent-Ember/NitroPing&Date" frameBorder="0"></iframe>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
 
 # NitroPing
 
