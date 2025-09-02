@@ -112,6 +112,14 @@ nitroping/
 │   │   ├── <user_id>.json   # User boost data
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
+
+⭐️ Star History
+Please give this repository a star if you like it. This will help us grow and reach even more people!
+
+<div style="border: 2px solid #000; padding: 5px; display: inline-block;">
+  [![Star History Chart](https://api.star-history.com/svg?repos=Silent-Ember/NitroPing&type=Date)](https://www.star-history.com/#Silent-Ember/NitroPing&Date)
+</div>
+
 ```
 
 ## Support
