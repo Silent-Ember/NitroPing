@@ -2,6 +2,12 @@
 
 ![NitroPing Banner](https://i.ibb.co/JjGWzycT/Nitro-Ping-Banner-3.png)
 
+<p align="center">
+<a href="https://top.gg/bot/1411081092689166460">
+  <img src="https://top.gg/api/widget/servers/1411081092689166460.svg">
+</a>
+</p>
+
 **NitroPing** is a Discord bot designed to manage and celebrate server boosts. It provides automated notifications for boost events, role management for boosters, and a suite of administrative commands to customize the experience. Built with `discord.py`, NitroPing is lightweight, easy to set up, and perfect for enhancing your server's boost engagement.
 
 ## Features
